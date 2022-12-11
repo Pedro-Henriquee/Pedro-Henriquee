@@ -25,7 +25,7 @@
  	
   <a href = "mailto:pedrhenrique20311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-129555250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FU-omyUX0AAu2jX.jpg">
+   <img align="right" alt="baby yoda-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FU-omyUX0AAu2jX.jpg">
 
   
   </div>
