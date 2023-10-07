@@ -1,7 +1,7 @@
 ### Olá! Sou o Pedro Henrique 👋
 
 - 📚 Cursando Engenharia de Software
-- 💬 Contate-me: pedrohenrique20311@gmail.com
+- 💬 Contate-me: pedrohenrique20311@gmail.com. Fico feliz em te ajudar!
 
 
 <div align="center">
@@ -26,8 +26,8 @@
 
 <div> 
   <a href = "mailto:pedrhenrique20311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-129555250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="baby yoda-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FU-omyUX0AAu2jX.jpg">
+  <a href="https://www.linkedin.com/in/pedro-henrique-129555250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="bojji-pic" height="150" style="border-radius:50px;" src="https://pm1.aminoapps.com/8253/b40af8cea268b22abb3d8a43a377e9c2bb7f2758r1-736-736v2_hq.jpg">
   </div>
 
   
