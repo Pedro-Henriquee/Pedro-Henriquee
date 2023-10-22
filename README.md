@@ -1,7 +1,7 @@
 ### Olá! Sou o Pedro Henrique 👋
 
 - 📚 Cursando Engenharia de Software
-- 💬 Contate-me: pedrohenrique20311@gmail.com. Fico feliz em te ajudar!
+- 💬 Contate-me: pedrohenrique20311@gmail.com. [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fico+feliz+em+te+ajudar!)](https://git.io/typing-svg)
 
 
 <div align="center">
