@@ -2,8 +2,6 @@
 
 - 📚 Cursando Engenharia de Software
 - 💬 Contate-me: pedrohenrique20311@gmail.com.
-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fico+feliz+em+te+ajudar!)](https://git.io/typing-svg)
-
 
 <div align="center">
   <a href="https://github.com/Pedro-Henriquee/">
