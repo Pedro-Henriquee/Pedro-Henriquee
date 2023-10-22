@@ -1,7 +1,7 @@
 ### Olá! Sou o Pedro Henrique 👋
 
 - 📚 Cursando Engenharia de Software
-- 💬 Contate-me: pedrohenrique20311@gmail.com.
+- 💬 Contate-me: pedrohenrique20311@gmail.com. Fico feliz em te ajudar!
 
 <div align="center">
   <a href="https://github.com/Pedro-Henriquee/">
